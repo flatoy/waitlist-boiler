@@ -1,3 +1,7 @@
+# Waitlist Boilerplate
+
+Made to quickly set up a simple landing page and register emails from who ever is interested in your app.
+
 ## Getting Started
 
 ### Installing
