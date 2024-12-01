@@ -12,10 +12,6 @@ _NOTE:_ Read the setup section before clicking deploy.
 
 ## Getting Started
 
-### Installing
-
-Run `npm install --legacy-peer-deps`, we need the flag because of `react-turnstile`. Not optimal but this is just a shortlived waitlist app.
-
 ## Setup
 
 First of all rename the `.env.example` to `.env`
@@ -41,7 +37,7 @@ If you want to can keep the initial Turnstile keys in the `.env.example` file fo
 
 ## Running Locally
 
-First, run the development server:
+First `npm install`, then run the development server:
 
 ```bash
 npm run dev
