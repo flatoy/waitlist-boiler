@@ -2,9 +2,13 @@
 
 Made to quickly set up a simple landing page and register emails from who ever is interested in your app.
 
+[DEMO](https://waitlist-demo.vercel.app/)
+
 _NOTE:_ Read the setup section before clicking deploy.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fflatoy%2Fwaitlist-boiler&env=NOTION_TOKEN,NOTION_DATABASE_ID,NEXT_PUBLIC_TURNSTILE_SITE_KEY,TURNSTILE_SECRET_KEY&envDescription=API%20keys%20needed%20for%20the%20the%20Notion%20integration%20and%20the%20Turnstile%20Captha.&envLink=https%3A%2F%2Fgithub.com%2Fflatoy%2Fwaitlist-boiler%3Ftab%3Dreadme-ov-file%23setup)
+
+![waitlist-test-2 vercel app_(Macbook)](https://github.com/user-attachments/assets/daf7a157-677b-495a-9987-5a504066d78b)
 
 ## Getting Started
 
